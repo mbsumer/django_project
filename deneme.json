@@ -1,0 +1,28 @@
+{
+    "id": {
+        "1": {
+            "vehicle": "vehicle1",
+            "datatime": "2019-10-25 10:30:00",
+            "longitude": 33.22,
+            "latitude": 21.45
+        },
+        "2": {
+            "vehicle": "vehicle2",
+            "datatime": "2020-05-25 14:30:59",
+            "longitude": 40.22,
+            "latitude": 15.05
+        },
+        "3": {
+            "vehicle": "vehicle3",
+            "datatime": "2020-08-29 14:30:59",
+            "longitude": 12.32,
+            "latitude": 11.11
+        },
+        "4": {
+            "vehicle": "vehicle4",
+            "datatime": "2020-08-29 20:00:00",
+            "longitude": 55.55,
+            "latitude": 22.22
+        }
+    }
+}
